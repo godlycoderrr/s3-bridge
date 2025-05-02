@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+telethon==1.34.0
+python-telegram-bot[persistence]==21.1.1 # Используем версию 21+
+python-dotenv==1.0.1
+aioboto3==12.3.0
+httpx==0.27.0
+aiofiles==23.2.1
+pytz # Нужен для корректной работы с временными зонами в статистике
