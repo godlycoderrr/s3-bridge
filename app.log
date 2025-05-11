@@ -1,0 +1,49 @@
+2025-05-05 13:41:13,590 - uvicorn.error - INFO - Started server process [18899]
+2025-05-05 13:41:13,591 - uvicorn.error - INFO - Waiting for application startup.
+2025-05-05 13:41:13,591 - __main__ - INFO - 🚀 Запуск приложения
+2025-05-05 13:41:13,591 - __main__ - INFO - 🔌 Инициализация Telegram клиентов...
+2025-05-05 13:41:13,594 - __main__ - INFO - 🔗 Подключение: +17793824604
+2025-05-05 13:41:14,268 - __main__ - ERROR - 🚨 Неизвестная ошибка +17793824604: RPCError.__init__() missing 1 required positional argument: 'message'
+Traceback (most recent call last):
+  File "/workspaces/s3-bridge/envato_userbot_api/main.py", line 355, in connect_single_client
+    raise AuthKeyError("❌ Не авторизован")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPCError.__init__() missing 1 required positional argument: 'message'
+2025-05-05 13:41:14,270 - __main__ - INFO - ✅ Инициализировано клиентов: 0
+2025-05-05 13:41:14,271 - uvicorn.error - INFO - Application startup complete.
+2025-05-05 13:41:14,273 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-05-05 13:41:19,395 - uvicorn.error - INFO - Shutting down
+2025-05-05 13:41:19,495 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-05-05 13:41:19,496 - __main__ - INFO - 🛑 Остановка приложения
+2025-05-05 13:41:19,496 - __main__ - INFO - 🧹 Очистка клиентов...
+2025-05-05 13:41:19,496 - uvicorn.error - INFO - Application shutdown complete.
+2025-05-05 13:41:19,496 - uvicorn.error - INFO - Finished server process [18899]
+2025-05-05 13:49:09,323 - uvicorn.error - INFO - Started server process [22805]
+2025-05-05 13:49:09,323 - uvicorn.error - INFO - Waiting for application startup.
+2025-05-05 13:49:09,324 - __main__ - INFO - 🚀 Запуск приложения
+2025-05-05 13:49:09,324 - __main__ - INFO - 🔌 Инициализация Telegram клиентов...
+2025-05-05 13:49:09,325 - __main__ - INFO - 🔗 Подключение: +17793824604
+2025-05-05 13:49:10,001 - __main__ - ERROR - 🚨 Неизвестная ошибка +17793824604: RPCError.__init__() missing 1 required positional argument: 'message'
+Traceback (most recent call last):
+  File "/workspaces/s3-bridge/envato_userbot_api/main.py", line 355, in connect_single_client
+    raise AuthKeyError("❌ Не авторизован")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPCError.__init__() missing 1 required positional argument: 'message'
+2025-05-05 13:49:10,002 - __main__ - INFO - ✅ Инициализировано клиентов: 0
+2025-05-05 13:49:10,002 - uvicorn.error - INFO - Application startup complete.
+2025-05-05 13:49:10,003 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-05-05 13:49:17,433 - uvicorn.error - INFO - Shutting down
+2025-05-05 13:49:17,534 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-05-05 13:49:17,534 - __main__ - INFO - 🛑 Остановка приложения
+2025-05-05 13:49:17,534 - __main__ - INFO - 🧹 Очистка клиентов...
+2025-05-05 13:49:17,535 - uvicorn.error - INFO - Application shutdown complete.
+2025-05-05 13:49:17,535 - uvicorn.error - INFO - Finished server process [22805]
+2025-05-05 19:00:02,023 - __main__ - INFO - [SYSTEM] Запуск Uvicorn сервера...
+2025-05-05 19:00:02,136 - __main__ - INFO - [STARTUP] 🚀 Запуск приложения...
+2025-05-05 19:00:02,136 - __main__ - INFO - [STARTUP] 📂 Временная директория: temp_downloads
+2025-05-05 19:00:02,137 - __main__ - INFO - [INIT] 🔌 Инициализация Telegram клиентов...
+2025-05-05 19:00:02,139 - __main__ - INFO - [INIT] 📊 Статистика загружена из usage_stats.json
+2025-05-05 19:00:02,140 - __main__ - INFO - [CONN-+177938246] 🔗 Попытка подключения: +17793824604
+2025-05-05 19:00:02,834 - __main__ - ERROR - [CONN-+177938246] ❌ Ошибка авторизации для +17793824604.
+2025-05-05 19:00:02,835 - __main__ - INFO - [INIT] ✅ Инициализация завершена. Активных: 0, с ошибками: 1, в flood: 0
+2025-05-05 19:00:02,835 - __main__ - INFO - [STARTUP] Инициализация клиентов завершена.

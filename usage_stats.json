@@ -1,6 +1,16 @@
 {
-    "+17793824604": {
-        "last_active": "2025-05-01T15:52:28.196432",
-        "total_uses": 1
-    }
+  "+17793824604": {
+    "last_active": "2025-05-01T15:52:28.196432",
+    "total_uses": 1
+  },
+  "1AZWarzsBu1memuQHFwDr1GgYHmr3zTE1Y8IkOqLivNCy9YexRUFEUzeuPDn0yNWwWZ4EKmbGg3hgR6tGYWrC7OyDrYm6eIcykriwk65iB-LbmKp28WKAD4BfFABOzMVNT0uLuNtr9ReuXM3S0SYTITOFbgWZRcKBUT9iKQ1YMz6e9h9oot_5pvoDyEZSfm6uqPDeoNStp5dxDevHCKwU1OXq2m879jjPtoDQwvqHzbU5Qt0dZsUCN1nWP81o3weuznhWVg1ugEtbPsTbKqX9eGHx2posXMkn_xHKooERNElL2KhjMePRmpOGgJxzA4UJl-ej_mbOn6ctuEN-RDy43WlMwLG-t14=": {
+    "status_from_worker": "auth_error",
+    "name": "+17793824604",
+    "phone_hint": "+17793824604",
+    "last_active": "2025-05-07T14:40:49.479351+00:00",
+    "total_uses": 0,
+    "daily_usage": {},
+    "notified_error": false,
+    "notified_daily_limit_2025-05-07": false
+  }
 }

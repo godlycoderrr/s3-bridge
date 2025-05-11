@@ -1,0 +1,59 @@
+2025-05-07 14:39:45,881 - __main__ - CRITICAL - [SYSTEM] API_ID или API_HASH не найдены в .env! Выход.
+2025-05-07 14:40:48,782 - __main__ - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 14:40:48,835 - __main__ - INFO - [SYSTEM] Запуск Uvicorn сервера для FastAPI worker на 127.0.0.1:8000 (reload: False)...
+2025-05-07 14:40:48,919 - main - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 14:40:48,923 - main - INFO - [STARTUP] 🚀 Запуск FastAPI приложения, версия: 1.2.0...
+2025-05-07 14:40:48,923 - main - INFO - [STARTUP] 📂 Временная директория: '/workspaces/s3-bridge/temp_downloads'
+2025-05-07 14:40:48,923 - main - INFO - [INIT] 🔌 Начало инициализации Telegram клиентов...
+2025-05-07 14:40:48,925 - main - INFO - [INIT] 📊 Статистика загружена из usage_stats.json
+2025-05-07 14:40:48,926 - main - INFO - [CONN-+177938246] 🔗 Подключение (тел. '+17793824604') SID: ...-t14=
+2025-05-07 14:40:49,478 - main - ERROR - [CONN-+177938246] ❌ Ошибка авторизации для '+17793824604'. Сессия может быть недействительна.
+2025-05-07 14:40:49,479 - main - INFO - [CONN-+177938246] Статус воркера для ...G-t14= изменен на 'auth_error'.
+2025-05-07 14:40:49,480 - main - INFO - [CONN-+177938246] Данные сессии ...G-t14= (статус: auth_error) сохранены в usage_stats.json.
+2025-05-07 14:40:49,481 - main - INFO - [INIT] ✅ Инициализация клиентов завершена. Всего настроено: 1. Активных: 0, с ошибками: 1, в flood_wait: 0
+2025-05-07 14:40:49,481 - main - INFO - [STARTUP] Инициализация Telegram клиентов запущена/завершена.
+2025-05-07 14:41:01,535 - main - INFO - [SHUTDOWN] 🛑 Начало остановки приложения...
+2025-05-07 14:41:01,535 - main - INFO - [CLEANUP] 🧹 Начало очистки Telegram клиентов...
+2025-05-07 14:41:01,536 - main - INFO - [CLEANUP] ✅ Очистка клиентов завершена.
+2025-05-07 14:41:01,536 - main - INFO - [SHUTDOWN] 🧹 Очистка временной директории 'temp_downloads'...
+2025-05-07 14:41:01,536 - main - INFO - [SHUTDOWN] Очистка 'temp_downloads' завершена (файлы удалены).
+2025-05-07 14:41:01,537 - main - INFO - [SHUTDOWN] ✅ Приложение успешно остановлено.
+2025-05-07 16:31:12,416 - __main__ - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 16:31:12,460 - __main__ - INFO - [SYSTEM] Запуск Uvicorn сервера для FastAPI worker на 127.0.0.1:8000 (reload: False)...
+2025-05-07 16:31:12,536 - main1 - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 16:31:12,542 - main1 - INFO - [STARTUP] 🚀 Запуск FastAPI приложения, версия: 1.2.1...
+2025-05-07 16:31:12,542 - main1 - INFO - [STARTUP] 📂 Временная директория: '/workspaces/s3-bridge/temp_downloads'
+2025-05-07 16:31:12,543 - main1 - INFO - [INIT] 🔌 Начало инициализации Telegram клиентов...
+2025-05-07 16:31:12,557 - main1 - INFO - [INIT] 📊 Статистика загружена из usage_stats.json
+2025-05-07 16:31:12,558 - main1 - INFO - [CONN-+177938246] 🔗 Подключение (тел. '+17793824604') SID: ...-t14=
+2025-05-07 16:31:13,120 - main1 - ERROR - [CONN-+177938246] ❌ Ошибка авторизации для '+17793824604'. Сессия может быть недействительна.
+2025-05-07 16:31:13,121 - main1 - INFO - [INIT] ✅ Инициализация клиентов завершена. Всего настроено: 1. Активных: 0, с ошибками: 1, в flood_wait: 0
+2025-05-07 16:31:13,121 - main1 - INFO - [STARTUP] Инициализация Telegram клиентов запущена/завершена.
+2025-05-07 16:31:20,147 - main1 - INFO - [SHUTDOWN] 🛑 Начало остановки приложения...
+2025-05-07 16:31:20,147 - main1 - INFO - [CLEANUP] 🧹 Начало очистки Telegram клиентов...
+2025-05-07 16:31:20,148 - main1 - INFO - [CLEANUP] ✅ Очистка клиентов завершена.
+2025-05-07 16:31:20,148 - main1 - INFO - [SHUTDOWN] 🧹 Очистка временной директории 'temp_downloads'...
+2025-05-07 16:31:20,148 - main1 - INFO - [SHUTDOWN] Очистка 'temp_downloads' завершена (файлы удалены).
+2025-05-07 16:31:20,148 - main1 - INFO - [SHUTDOWN] ✅ Приложение успешно остановлено.
+2025-05-07 18:24:37,906 - __main__ - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 18:24:37,950 - __main__ - INFO - [SYSTEM] Запуск Uvicorn сервера для FastAPI worker на 127.0.0.1:8000 (reload: False)...
+2025-05-07 18:24:38,020 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 1
+2025-05-07 18:24:38,021 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-05-07 18:24:38,022 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 10
+2025-05-07 18:24:38,022 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 14
+2025-05-07 18:24:38,023 - dotenv.main - WARNING - Python-dotenv could not parse statement starting at line 18
+2025-05-07 18:24:38,026 - main1 - WARNING - [SYSTEM] FASTAPI_CLIENT_API_KEY не задан в .env. Эндпоинты FastAPI будут доступны без авторизации.
+2025-05-07 18:24:38,030 - main1 - INFO - [STARTUP] 🚀 Запуск FastAPI приложения, версия: 1.2.2...
+2025-05-07 18:24:38,030 - main1 - INFO - [STARTUP] 📂 Временная директория: '/workspaces/s3-bridge/temp_downloads'
+2025-05-07 18:24:38,030 - main1 - INFO - [INIT] 🔌 Начало инициализации Telegram клиентов...
+2025-05-07 18:24:38,037 - main1 - INFO - [INIT] 📊 Статистика загружена из usage_stats.json
+2025-05-07 18:24:38,037 - main1 - INFO - [CONN-+177938246] 🔗 Подключение (тел. '+17793824604') SID: ...-t14=
+2025-05-07 18:24:38,710 - main1 - ERROR - [CONN-+177938246] ❌ Ошибка авторизации для '+17793824604'. Сессия может быть недействительна.
+2025-05-07 18:24:38,711 - main1 - INFO - [INIT] ✅ Инициализация клиентов завершена. Всего настроено: 1. Активных: 0, с ошибками: 1, в flood_wait: 0
+2025-05-07 18:24:38,711 - main1 - INFO - [STARTUP] Инициализация Telegram клиентов запущена/завершена.
+2025-05-07 18:24:41,922 - main1 - INFO - [SHUTDOWN] 🛑 Начало остановки приложения...
+2025-05-07 18:24:41,923 - main1 - INFO - [CLEANUP] 🧹 Начало очистки Telegram клиентов...
+2025-05-07 18:24:41,923 - main1 - INFO - [CLEANUP] ✅ Очистка клиентов завершена.
+2025-05-07 18:24:41,923 - main1 - INFO - [SHUTDOWN] 🧹 Очистка временной директории 'temp_downloads'...
+2025-05-07 18:24:41,923 - main1 - INFO - [SHUTDOWN] Очистка 'temp_downloads' завершена (файлы удалены).
+2025-05-07 18:24:41,923 - main1 - INFO - [SHUTDOWN] ✅ Приложение успешно остановлено.
